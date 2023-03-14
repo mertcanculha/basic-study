@@ -1,0 +1,13 @@
+.navbar{
+  &.navbar-light {
+    background: linear-gradient(90deg, #748EFC 0%, #3B4D9A 100%) 0% 0% no-repeat padding-box;
+    width: auto;
+    height: 110px;
+  }
+}
+.navbar-pixelplus {
+  width: -webkit-fill-available;
+  text-align: center;
+  font-size: 32px;
+  color: #FFFFFF; 
+}
